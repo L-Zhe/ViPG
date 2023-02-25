@@ -25,6 +25,7 @@ You should first use ```gerate_img_feature.py``` to generate image feature vecto
 
 **Text**
 You should first leverage ```POS.py``` to transform a text to the following format, and you will get the text file ```*.pos```.
+
 <img src="https://github.com/L-Zhe/ViPG/blob/main/img/ner.jpg?raw=true" width = "500" alt="overview" align=center />
 
 
