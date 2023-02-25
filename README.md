@@ -54,6 +54,7 @@ python preprocess.py --sent_file *.pos.bpe \
 ```image_file.img``` is a text file, each line of it is an image file name which orresponds to the training file ```.pos.bpe```.
 
 There are two examples of preprocessing dataset in ```./data/flickr``` and ```./data/mscoco```
+
 ### Step 2: Train Model
 
 ```
