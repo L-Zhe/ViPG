@@ -1,4 +1,4 @@
-# BTmPG
+# ViPG
 Code for paper [Visual Information Guided Zero-Shot Paraphrase Generation](https://aclanthology.org/2022.coling-1.568/) by Zhe Lin, Xiaojun Wan. This paper is accepted by Findings of COLING'22. Please contact me at [linzhe@pku.edu.cn](mailto:linzhe@pku.edu.cn) for any question.
 <img src="https://github.com/L-Zhe/ViPG/blob/main/img/model.jpg?raw=true" width = "500" alt="overview" align=center />
 
@@ -14,7 +14,7 @@ subword-nmt
 
 ## System Output
 
-If you are looking for system output and don't bother to install dependencies and train a model (or run a pre-trained model), the [all-system-output](https://github.com/L-Zhe/ViPG/all-system-output) folder is for you.
+If you are looking for system output and don't bother to install dependencies and train a model (or run a pre-trained model), the [all-system-output](https://github.com/L-Zhe/ViPG/tree/main/all-system-output) folder is for you.
 
 ## Train a new model
 ### Step 1: Preprocess
