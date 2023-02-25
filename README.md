@@ -1,6 +1,6 @@
 # BTmPG
 Code for paper [Visual Information Guided Zero-Shot Paraphrase Generation](https://aclanthology.org/2022.coling-1.568/) by Zhe Lin, Xiaojun Wan. This paper is accepted by Findings of COLING'22. Please contact me at [linzhe@pku.edu.cn](mailto:linzhe@pku.edu.cn) for any question.
-<img src="https://github.com/L-Zhe/ViPG/blob/main/img/model.jpg?raw=true" width = "800" alt="overview" align=center />
+<img src="https://github.com/L-Zhe/ViPG/blob/main/img/model.jpg?raw=true" width = "500" alt="overview" align=center />
 
 ## Dependencies
 ```
@@ -25,7 +25,7 @@ You should first use ```gerate_img_feature.py``` to generate image feature vecto
 
 **Text**
 You should first leverage ```POS.py``` to transform a text to the following format, and you will get the text file ```*.pos```.
-<img src="https://github.com/L-Zhe/ViPG/blob/main/img/ner.jpg?raw=true" width = "800" alt="overview" align=center />
+<img src="https://github.com/L-Zhe/ViPG/blob/main/img/ner.jpg?raw=true" width = "500" alt="overview" align=center />
 
 
 Then you can use the following command to apply byte pair encoding to word segmentation:
